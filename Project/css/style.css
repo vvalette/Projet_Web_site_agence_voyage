@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.buttons {
+    float: left;
+    width: 40%;
+    text-align: center;
+}
+
+.button {
+    background-color: #4CAF50;
+    /* Green */
+    margin: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.scores {
+    clear: both;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.div2 {
+    width: 60%;
+    float: right;
+}
+
+.div2-1 {
+    width: 50%;
+    float: left;
+}
+
+.div2-2 {
+    width: 50%;
+    float: right;
+}
+
+#idPiece {
+    width: 200px;
+    height: 200px;
+}
